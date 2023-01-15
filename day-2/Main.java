@@ -1,6 +1,6 @@
 import java.util.Scanner; 
 
-public class main {
+public class Main {
 
     public static Integer waktuRental(int angka){
         int afterOneHours = 200000*25/100*(angka-1);
